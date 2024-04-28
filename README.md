@@ -16,11 +16,6 @@ Aqui está o <a href="https://www.figma.com/file/E8s4rYHfPhoctow5q0QIOd/Desafios
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
